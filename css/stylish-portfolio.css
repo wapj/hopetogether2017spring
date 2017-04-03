@@ -225,10 +225,16 @@ hr.small {
 .map {
     height: 500px;
 }
+.map_detail {
+    display: none;
+}
 
 @media(max-width:768px) {
     .map {
         height: 75%;
+    }
+    .map_detail {
+        display: block;
     }
 }
 
