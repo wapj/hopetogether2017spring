@@ -229,13 +229,24 @@ hr.small {
     display: none;
 }
 
+.mobile {
+    display:none;
+}
+
 @media(max-width:768px) {
+    .desktop {
+        display: none;
+    }
+    .mobile {
+        display: block;
+    }
     .map {
         height: 75%;
     }
     .map_detail {
         display: block;
     }
+
 }
 
 .map iframe {
