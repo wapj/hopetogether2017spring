@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="9ed2e6fb-7e77-463c-9d76-7ae7a049528f" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/stylish-portfolio.css" afterPath="$PROJECT_DIR$/css/stylish-portfolio.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <ignored path="hopetogether.iws" />
@@ -28,8 +27,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="499">
-              <caret line="100" column="56" selection-start-line="100" selection-start-column="56" selection-end-line="100" selection-end-column="56" />
+            <state relative-caret-position="334">
+              <caret line="200" column="30" selection-start-line="200" selection-start-column="30" selection-end-line="200" selection-end-column="30" />
               <folding>
                 <element signature="n#style#0;n#iframe#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
@@ -638,7 +637,7 @@
       <updated>1491228619404</updated>
       <workItem from="1491228624598" duration="4741000" />
       <workItem from="1491254611903" duration="310000" />
-      <workItem from="1492005986068" duration="4142000" />
+      <workItem from="1492005986068" duration="4361000" />
     </task>
     <task id="LOCAL-00001" summary="배경이미지 교체 &#10;청년부 이미지 교체">
       <created>1492006916479</created>
@@ -682,11 +681,18 @@
       <option name="project" value="LOCAL" />
       <updated>1492010152446</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="모바일 접근성관련 수정">
+      <created>1492010871127</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1492010871127</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9193000" />
+    <option name="totallyTimeSpent" value="9412000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="809" y="23" width="1287" height="1053" extended-state="0" />
@@ -734,7 +740,8 @@
     <MESSAGE value="테스트 수정" />
     <MESSAGE value="sns공유정보 수정" />
     <MESSAGE value="텍스트 수정" />
-    <option name="LAST_COMMIT_MESSAGE" value="텍스트 수정" />
+    <MESSAGE value="모바일 접근성관련 수정" />
+    <option name="LAST_COMMIT_MESSAGE" value="모바일 접근성관련 수정" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -776,8 +783,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="499">
-          <caret line="100" column="56" selection-start-line="100" selection-start-column="56" selection-end-line="100" selection-end-column="56" />
+        <state relative-caret-position="334">
+          <caret line="200" column="30" selection-start-line="200" selection-start-column="30" selection-end-line="200" selection-end-column="30" />
           <folding>
             <element signature="n#style#0;n#iframe#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
